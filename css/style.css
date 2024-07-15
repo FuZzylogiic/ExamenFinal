@@ -1,0 +1,28 @@
+.tarjeta {
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    box-shadow: 0 0 4px;
+    width: 300px; 
+    margin: 0 auto;
+}
+
+.tarjeta .titulo {
+    background-color: grey;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 8px;
+    text-align: center;
+}
+.tarjeta .cuerpo {
+    font-style: italic;
+    text-align: justify;
+    padding: 8px;
+}
+
+.tarjeta .pie{
+    background-color: gainsboro;
+    color: #ffffff;
+    padding: 8px;
+    text-align: center;
+}
+
